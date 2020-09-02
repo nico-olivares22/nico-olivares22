@@ -4,8 +4,9 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-olivares22&layout=compact&hide=shell&theme=chartreuse-dark" alt="nico-olivares22" />
+    <img align="center"src="https://github-readme-stats.vercel.app/api?username=nico-olivares22&show_icons=true&hide=stars,contribs&theme=chartreuse-dark" alt="nico-olivares22" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center"src="https://github-readme-stats.vercel.app/api?username=nico-olivares22&show_icons=true&hide=stars,contribs&theme=chartreuse-dark" alt="nico-olivares22" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-olivares22&layout=compact&hide=shell&theme=chartreuse-dark" alt="nico-olivares22" />
 </a>
+
