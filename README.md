@@ -1,6 +1,6 @@
 ### A student of Informatics Engineering
 <p align="center">
-<img src="https://badges.pufler.dev/visits/nico-olivares22/nico-olivares22" alt="nico-olivares22" />
+<img src="https://badges.pufler.dev/visits/nico-olivares22/nico-olivares22">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
